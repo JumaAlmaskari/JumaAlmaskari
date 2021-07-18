@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JumaAlmaskari
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @JumaAlmaskari 🌱 I’m currently learning Python
 
 
 <!---
